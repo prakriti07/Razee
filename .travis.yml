@@ -1,7 +1,7 @@
 language: node_js
 arch:
-  - amd64
   - arm64
+  - amd64
 node_js:
   - "11"
 
